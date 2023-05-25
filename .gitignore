@@ -1,0 +1,13 @@
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Virtual environment files
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Other project-specific files
+logs/
+*.log
